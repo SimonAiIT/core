@@ -672,3 +672,32 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+### AI Act Section
+
+This License is subject to the following additional provisions in relation to the European Union's AI Act:
+
+1. **Definition of AI System:** An AI system for the purposes of this License is any system that meets the definition of "artificial intelligence" in Article 3 of the AI Act.
+
+2. **Documentation and Assessment:** The Licensee shall document the AI system in accordance with the requirements of Annex III of the AI Act. The Licensee shall also assess the AI system to determine compliance with the requirements of the AI Act and identify any risks or problems. The documentation and assessment shall be made available to the competent authorities upon request.
+
+3. **Restrictions on Commercial Use:** The AI system may be distributed or used for commercial purposes only if the Licensee has obtained a certification compliant with the AI Act or has adopted equivalent security measures approved by the competent authorities. Free use of the AI system is only permitted in a controlled development environment.
+
+4. **Deployer's Responsibility:** The entity that distributes or uses the AI system (deployer) shall be responsible for ensuring the system's compliance with the requirements of the AI Act and for mitigating potential risks. The deployer shall also cooperate with the competent authorities in the event of investigations or enforcement actions.
+
+**Notes:**
+
+* **Please note that this is just an example and may need to be adapted to the specific needs of your AI system.**
+* **The AI Act is a complex piece of legislation and it is important to seek legal advice to ensure that your AI system is compliant.**
+* **The AI Act is still in the process of being implemented and there may be changes to the requirements in the future.**
+* **It is important to stay up-to-date on the latest developments in AI law.**
+
+****Italy AI Act approved on May 25, 2024**
+
+The Italian government approved the draft law implementing the AI Act on May 25, 2024. The draft law is currently in the parliamentary approval process. Once approved, it will become law and all residents of Italy will be subject to its provisions.
+
+**It is important to note that the AI Act does not yet have a direct effect on individuals. However, businesses that develop or use AI systems may already be subject to certain obligations under the AI Act.**
+
+**For more information on the AI Act, please visit the following resources:**
+[AI Act website] https://artificialintelligenceact.eu/
+
